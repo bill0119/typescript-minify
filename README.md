@@ -19,6 +19,7 @@ let modules = 'module.json';
 build.ts_minify(root , modules);
 ```
 
+module.json
 ```json
 {
   "file": [
