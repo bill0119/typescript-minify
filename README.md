@@ -17,7 +17,9 @@ let root = path.join(process.cwd(), 'src');
 let modules = 'module.json';
 
 build.ts_minify(root , modules);
-module.json
+```
+
+```json
 {
   "file": [
     "test.ts"
