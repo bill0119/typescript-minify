@@ -1,0 +1,22 @@
+{
+  "name": "typescript-minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bill0119/typescript-minify.git"
+  },
+  "author": "bill0119",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bill0119/typescript-minify/issues"
+  },
+  "homepage": "https://github.com/bill0119/typescript-minify#readme",
+  "dependencies": {
+    "uglify-es": "^3.3.3"
+  }
+}
