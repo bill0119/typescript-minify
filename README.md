@@ -1,4 +1,4 @@
-# cp-folder
+# typescript-minify
 
 minify typescript
 
@@ -10,6 +10,11 @@ $ npm install typescript-minify
 
 
 ## Usage
+
+install dependencies
+```
+$ npm install
+```
 
 ```js
 let build = require('typescript-minify');
