@@ -10,18 +10,12 @@ $ npm install typescript-minify
 
 
 ## Usage
-
-install dependencies
-```
-$ npm install
-```
-
 ```js
-let build = require('typescript-minify');
-let root = path.join(process.cwd(), 'src');
+let minify = require('typescript-minify');
+let source = path.join(process.cwd(), 'src');
 let modules = 'module.json';
 
-build.ts_minify(root , modules);
+minify.ts_minify(source , modules);
 ```
 
 module.json
